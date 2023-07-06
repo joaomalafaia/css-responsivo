@@ -134,6 +134,9 @@ footer {
 }
 
 @media screen and (min-width: 641px) and (max-width: 1023px) {
+    .container {
+        width: 90%;
+    }
     header .container {
         display: flex;
         justify-content: space-between;
